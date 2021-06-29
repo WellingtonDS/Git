@@ -1,0 +1,11 @@
+Revert "Alterando o código"
+
+This reverts commit 738db67da0de952603e570da1066d0185c901a12.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch titulo
+# Changes to be committed:
+odified:   index.html
+#
